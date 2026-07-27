@@ -3,7 +3,7 @@ package main
 import (
 	"database/sql"
 	"embed"
-	"io
+	"io"
 	"log"
 	"net/http"
 	"os"
